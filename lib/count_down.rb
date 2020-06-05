@@ -1,4 +1,4 @@
 # Write your code here
-while true do
-  puts "say this is forever..."
+while nil do
+  puts "I will never run"
 end
