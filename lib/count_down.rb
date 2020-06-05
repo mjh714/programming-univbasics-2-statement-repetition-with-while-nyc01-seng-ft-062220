@@ -1,4 +1,5 @@
 # Write your code here
-while nil do
-  puts "I will never run"
-end
+count = log10
+while count < 3 do 
+  puts "I am the #{count}, I love to count!"
+  count 
